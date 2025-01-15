@@ -1,8 +1,7 @@
 1. Nodemailer
 
    
-What It Is:
-A Node.js library for sending emails from your application or server.
+What It Is: A Node.js library for sending emails from your application or server.
 What It Does:
 
 
@@ -78,6 +77,8 @@ Key Differences:
 ![image](https://github.com/user-attachments/assets/5914089b-7f84-4c88-b51d-231b536cd6f9)
 
 Summary
+
+
 Nodemailer: Send emails from your application.
 Mailtrap.io: Test emails safely during development.
 Email on Acid: Ensure emails render correctly across clients and devices.
