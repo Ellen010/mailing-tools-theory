@@ -1,4 +1,6 @@
 1. Nodemailer
+
+   
 What It Is:
 A Node.js library for sending emails from your application or server.
 What It Does:
@@ -20,6 +22,8 @@ Example:
 
 2. Mailtrap.io
 What It Is:
+
+
 A fake SMTP server used for testing email functionality in development environments.
 What It Does:
 Captures and stores emails sent during testing to avoid sending them to real users.
@@ -31,7 +35,9 @@ Debugging email templates in a secure environment.
 Key Feature:
 Prevents accidental emails from being sent to users during development.
 Allows inspection of email content and metadata.
-3. Email on Acid
+4. Email on Acid
+
+
 What It Is:
 An email testing platform for previewing how emails render across different email clients and devices.
 What It Does:
@@ -44,7 +50,9 @@ Debugging and fixing design inconsistencies in email templates.
 Key Feature:
 Comprehensive email client testing.
 Spam testing and optimization recommendations.
-4. Litmus
+5. Litmus
+
+
 What It Is:
 A premium email marketing tool for testing, tracking, and analyzing email campaigns.
 What It Does:
