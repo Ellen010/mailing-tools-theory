@@ -4,6 +4,8 @@
 What It Is:
 A Node.js library for sending emails from your application or server.
 What It Does:
+
+
 Sends emails via SMTP, direct transport, or other transport protocols.
 Allows developers to send emails programmatically using JavaScript.
 Supports HTML emails, attachments, and custom headers.
@@ -35,7 +37,9 @@ Debugging email templates in a secure environment.
 Key Feature:
 Prevents accidental emails from being sent to users during development.
 Allows inspection of email content and metadata.
-4. Email on Acid
+
+
+3. Email on Acid
 
 
 What It Is:
@@ -50,7 +54,7 @@ Debugging and fixing design inconsistencies in email templates.
 Key Feature:
 Comprehensive email client testing.
 Spam testing and optimization recommendations.
-5. Litmus
+4. Litmus
 
 
 What It Is:
