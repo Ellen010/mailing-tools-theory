@@ -22,10 +22,9 @@ Example:
 
 
 2. Mailtrap.io
-What It Is:
 
 
-A fake SMTP server used for testing email functionality in development environments.
+What It Is: A fake SMTP server used for testing email functionality in development environments.
 What It Does:
 Captures and stores emails sent during testing to avoid sending them to real users.
 Provides a sandbox environment to test and debug emails.
